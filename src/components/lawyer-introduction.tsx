@@ -5,34 +5,34 @@ export default function LawyerIntroduction() {
     <section id="lawyer-introduction" className="bg-gray-50 py-12 md:py-16">
       <div className="container mx-auto px-4">
         {/* Professional Background */}
-        <div className="bg-gradient-to-r from-axencis-3 to-axencis-2 text-white rounded-lg p-6 md:p-8 mb-8 shadow-lg">
+        <div className="bg-blue-900 rounded-lg p-6 md:p-8 mb-8 shadow-lg">
           <div className="text-center mb-8">
-            <Briefcase className="w-12 h-12 text-axencis-4 mx-auto mb-4" />
-            <h2 className="text-2xl md:text-3xl font-bold mb-2">
+            <Briefcase className="w-12 h-12 text-blue-200 mx-auto mb-4" />
+            <h2 className="text-2xl md:text-3xl font-bold mb-2 text-white">
               💼 인사말
             </h2>
           </div>
 
           <div className="max-w-4xl mx-auto">
             {/* Quote Section */}
-            <div className="bg-axencis-2 bg-opacity-80 rounded-lg p-6 md:p-8 mb-6 border-l-4 border-axencis-1">
-              <Quote className="w-8 h-8 text-axencis-4 mb-4" />
-              <blockquote className="text-lg md:text-xl leading-relaxed text-white italic mb-4">
+            <div className="bg-blue-800 rounded-lg p-6 md:p-8 mb-6 border-l-4 border-blue-300">
+              <Quote className="w-8 h-8 text-blue-200 mb-4" />
+              <blockquote className="text-lg md:text-xl leading-relaxed text-blue-50 italic mb-4">
                 &ldquo;법률사무소 화음은 과학기술정보통신분야에서의 고도의 경험과 전문성을
                 바탕으로 여러분이 입은 손해를 정당하게 배상받을 수 있도록
                 성심성의껏 최선의 노력을 다하겠습니다.&rdquo;
               </blockquote>
               
-              <div className="text-white opacity-90 font-medium">
+              <div className="text-blue-100 font-medium">
                 여러분의 소중한 권익이 온전히 지켜지는 그날까지 저희가 함께하겠습니다.
               </div>
             </div>
 
             <div className="text-center">
-              <div className="text-xl font-bold text-white opacity-90 mb-2">
+              <div className="text-xl font-bold text-blue-100 mb-2">
                 - 법률사무소 화음 대표변호사 정재권 -
               </div>
-              <div className="text-white opacity-80 font-medium">
+              <div className="text-blue-200 font-medium">
                 (과학기술정보통신부 고문 변호사)
               </div>
             </div>
@@ -47,7 +47,7 @@ export default function LawyerIntroduction() {
             <div className="text-axencis-5 opacity-80">
               과학기술정보통신<br />
               개인정보보호<br />
-              집단분쟁조정
+              집단분쟁
             </div>
           </div>
 
@@ -56,18 +56,18 @@ export default function LawyerIntroduction() {
             <div className="font-bold text-axencis-5 text-lg mb-2">정부 경력</div>
             <div className="text-axencis-5 opacity-80">
               과학기술정보통신부<br />
-              고문 변호사<br />
-              법무 자문
+              기상청 등<br />
+              고문 변호사
             </div>
           </div>
 
           <div className="bg-axencis-4 bg-opacity-20 rounded-lg p-6 text-center shadow-md border-2 border-axencis-4">
             <Briefcase className="w-12 h-12 text-axencis-1 mx-auto mb-4" />
-            <div className="font-bold text-axencis-5 text-lg mb-2">소송 경험</div>
+            <div className="font-bold text-axencis-5 text-lg mb-2">법무 경험</div>
             <div className="text-axencis-5 opacity-80">
-              개인정보 유출<br />
-              집단소송 다수<br />
-              승소 경험 풍부
+              개인정보보호<br />
+              정보통신 자문<br />
+              승소 경험 다수
             </div>
           </div>
         </div>
@@ -79,7 +79,7 @@ export default function LawyerIntroduction() {
               🏢 법률사무소 화음
             </h3>
             <div className="text-axencis-5 opacity-80 font-medium">
-              국가연구개발사업 제재처분 분쟁 및 개인정보보호 전문
+              과학기술정보통신분야 및 개인정보보호 분야 활동
             </div>
           </div>
 
@@ -99,8 +99,8 @@ export default function LawyerIntroduction() {
               <ul className="text-axencis-5 opacity-80 space-y-2">
                 <li>• 과기정통부 고문 변호사 역임</li>
                 <li>• 개인정보 유출 집단소송 승소</li>
-                <li>• 통신분야 법률 전문성 인정</li>
-                <li>• 대규모 집단소송 경험 풍부</li>
+                <li>• 과학기술정보통신분야 전문성</li>
+                <li>• 대규모 집단소송</li>
               </ul>
             </div>
           </div>

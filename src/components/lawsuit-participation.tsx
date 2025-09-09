@@ -106,16 +106,16 @@ export default function LawsuitParticipation() {
             <div className="bg-white rounded-lg p-6 shadow-md">
               <div className="font-bold text-green-700 text-lg mb-3">성공보수</div>
               <div className="text-gray-800 space-y-1">
-                <div>• 1심: 경제적 이익가액의 <span className="font-bold text-green-600">10%</span></div>
-                <div>• 2심: 경제적 이익가액의 <span className="font-bold text-green-600">15%</span></div>
-                <div>• 3심: 경제적 이익가액의 <span className="font-bold text-green-600">20%</span></div>
+                <div>• 1심에서 확정시: 경제적 이익가액의 <span className="font-bold text-green-600">10%</span></div>
+                <div>• 2심에서 확정시: 경제적 이익가액의 <span className="font-bold text-green-600">15%</span></div>
+                <div>• 3심에서 확정시: 경제적 이익가액의 <span className="font-bold text-green-600">20%</span></div>
               </div>
             </div>
           </div>
 
           <div className="mt-6 bg-yellow-50 rounded-lg p-4 border-2 border-yellow-200">
             <div className="text-center text-yellow-800 font-medium">
-              ⚡ 성공시에만 보수를 지급하므로 부담 없이 참여하실 수 있습니다!
+              ⚡ 착수금 1만원, 경제적 이익가액의 10-20%의 적은 성공보수만 책정하였으니 부담 없이 참여하세요!
             </div>
           </div>
         </div>

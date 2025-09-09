@@ -134,7 +134,7 @@ export default function ContactCta() {
                   <span className="text-2xl">⚠️</span>
                 </div>
                 <h3 className="font-bold text-2xl mb-4 text-red-700">
-                  ⚠️ 중요 안내 ⚠️
+                  ⚠️ 주의사항 ⚠️
                 </h3>
                 <div className="bg-white rounded-xl p-6 shadow-inner border border-red-200">
                   <div className="text-base md:text-lg font-medium text-gray-800 leading-relaxed">

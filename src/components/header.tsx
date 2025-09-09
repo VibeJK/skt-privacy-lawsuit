@@ -46,9 +46,9 @@ export default function Header() {
               <Image
                 src="/law-firm-logo.jpg"
                 alt="법률사무소 화음"
-                width={120}
-                height={40}
-                className="h-8 md:h-10 w-auto object-contain"
+                width={150}
+                height={50}
+                className="h-10 md:h-12 w-auto object-contain"
                 priority
               />
             </a>

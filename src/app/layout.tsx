@@ -38,10 +38,10 @@ export const metadata: Metadata = {
     description: "SKT 유심 정보 유출 사건 피해자 집단소송 3차 모집. 착수금 1만원으로 손해배상 청구 가능. 과기정통부 고문 변호사가 직접 수행.",
     images: [
       {
-        url: "/og-image.jpg",
+        url: "/og-social-image.jpg",
         width: 1200,
         height: 630,
-        alt: "법률사무소 화음 - SKT 유심 정보 유출 집단소송",
+        alt: "법률사무소 화음 사무실 - SKT 유심 정보 유출 집단소송",
       }
     ],
   },
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     creator: "@hwaumlaw",
     title: "SKT 유심 정보 유출 집단소송 3차 모집 | 법률사무소 화음",
     description: "SKT 유심 정보 유출 사건 피해자 집단소송 3차 모집. 착수금 1만원으로 손해배상 청구 가능.",
-    images: ["/og-image.jpg"],
+    images: ["/og-social-image.jpg"],
   },
   robots: {
     index: true,
@@ -111,7 +111,7 @@ export default function RootLayout({
               "description": "SKT 유심 정보 유출 집단소송 전문 법률사무소",
               "url": "https://skt-lawsuit.vercel.app",
               "logo": "https://skt-lawsuit.vercel.app/law-firm-logo.jpg",
-              "image": "https://skt-lawsuit.vercel.app/og-image.jpg",
+              "image": "https://skt-lawsuit.vercel.app/og-social-image.jpg",
               "address": {
                 "@type": "PostalAddress",
                 "streetAddress": "논현로71길 10 써밋빌딩 4층",
